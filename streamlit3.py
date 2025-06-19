@@ -9,7 +9,7 @@ import io
 # === Config ===
 API_BASE_URL = "https://oms.locus-api.com/v1/client/watsons-ph-devo/order/"
 USERNAME = "watsons-ph-devo"
-PASSWORD = "977eb974-6fcd-4678-97e6-191f543b1a04"
+PASSWORD = "93c5b240-8b3e-4e5f-8343-93b2b16be7a8"
 
 # === Functions ===
 
