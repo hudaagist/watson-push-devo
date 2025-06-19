@@ -7,9 +7,9 @@ import math
 import io
 
 # === Config ===
-API_BASE_URL = "https://oms.locus-api.com/v1/client/watson-devo/order/"
-USERNAME = "mara/personnel/hudaa"
-PASSWORD = "J@z1208wew"
+API_BASE_URL = "https://oms.locus-api.com/v1/client/watsons-ph-devo/order/"
+USERNAME = "watsons-ph-devo"
+PASSWORD = "977eb974-6fcd-4678-97e6-191f543b1a04"
 
 # === Functions ===
 
